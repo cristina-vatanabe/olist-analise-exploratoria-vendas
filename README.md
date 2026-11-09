@@ -4,7 +4,7 @@ Projeto Aplicado I da Pós-graduação em Análise Estratégica de Dados (IFMG, 
 
 **Autoras:** [Cristina Satie Vatanabe](www.linkedin.com/in/cristinavatanabe) e Beatriz Maria Pereira Ribon
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU-USUARIO/NOME-DO-REPOSITORIO/blob/main/projeto_aplicado_olist.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cristina-vatanabe/olist-analise-exploratoria-vendas/blob/main/projeto_aplicado_olist.ipynb)
 
 ---
 
