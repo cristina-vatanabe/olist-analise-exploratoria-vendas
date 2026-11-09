@@ -2,7 +2,7 @@
 
 Projeto Aplicado I da Pós-graduação em Análise Estratégica de Dados (IFMG, Campus Formiga), desenvolvido em dupla com a metodologia **CRISP-DA** (etapas 1 a 4).
 
-**Autoras:** [Cristina Satie Vatanabe](www.linkedin.com/in/cristinavatanabe) e Beatriz Maria Pereira Ribon
+**Autoras:** [Cristina Satie Vatanabe](https://www.linkedin.com/in/cristinavatanabe) e Beatriz Maria Pereira Ribon
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cristina-vatanabe/olist-analise-exploratoria-vendas/blob/main/projeto_aplicado_olist.ipynb)
 
